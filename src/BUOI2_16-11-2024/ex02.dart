@@ -34,6 +34,11 @@ void main(){
   print(++a);
   print(a--);
   print(--a);
-
+print("\n");
+  int c = 0;
+  int b = 0;
   
+  b = ++c;
+  print(c);
+  print(b);
 }
